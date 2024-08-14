@@ -4,8 +4,10 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+pyqt6 = "*"
 
 [dev-packages]
+colorama = "*"
 
 [requires]
 python_version = "3.12"
